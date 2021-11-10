@@ -1,6 +1,7 @@
 Olá eu sou o Professor Wagner, trabalho no Departamento de Engenharia da Universidade Federal Rural do Rio de Janeiro (UFRRJ).
 
-Bacharel e Mestre em Ciência da Computação pela Universidade Federal de Viçosa (UFV)
+Bacharel e Mestre em Ciência da Computação pela Universidade Federal de Viçosa (UFV).
+
 Doutor em Interdisciplinar no Programa de Pós-Graduação em Ciência, Tecnologia e Inovação em Agropecuária da Universidade Federal Rural do Rio de Janeiro (UFRRJ).
 
 Tem experiência na área da Ciência da Computação, com ênfase em Sistemas de Informação, atuando principalmente nos seguintes temas:
